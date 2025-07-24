@@ -4,5 +4,5 @@
 
 1. Login and upload photo
 
-2. Second step
+2. View photo in new tab and look at GET request /files/avatars/images.jpeg
 
