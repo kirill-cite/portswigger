@@ -15,6 +15,6 @@
 
 5. We need to create .htaccess file to change server configuration
 
--filename '.htaccess'
--Content-Type text/plain
--paylaod 
+- filename '.htaccess'
+- Content-Type text/plain
+- paylaod 
