@@ -1,6 +1,6 @@
-Lab: Remote code execution via web shell upload
+#Lab: Remote code execution via web shell upload
 
-End goal: upload a basic PHP web shell and get the contents of the file /home/carlos/secret
+##End goal: upload a basic PHP web shell and get the contents of the file /home/carlos/secret
 
 Credentials: wiener:peter
 
