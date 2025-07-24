@@ -6,3 +6,7 @@
 
 2. View photo in new tab and look at GET request /files/avatars/images.jpeg
 
+3. Create exploit.php file
+
+4. Upload exploit.php instead of image
+
