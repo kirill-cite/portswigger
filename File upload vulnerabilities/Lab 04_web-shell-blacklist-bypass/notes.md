@@ -16,5 +16,6 @@
 5. We need to create .htaccess file to change server configuration
 
 - filename '.htaccess'
-- Content-Type text/plain
-- paylaod 
+- Content-Type 'text/plain'
+- paylaod 'AddType application/x-httpd-php .shell' -> execute *.shell files like php
+
