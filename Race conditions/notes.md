@@ -1,5 +1,7 @@
 # Race conditions
 
-1. Firts step
+Multiple distinct treats interact with same data and collision arise.
 
-2. Second step
+Race window - time when collisions are possible.
+
+Limit overrun race conditions.
